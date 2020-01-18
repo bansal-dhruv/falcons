@@ -9,5 +9,5 @@ This is fullfleged and functional project consisting of GUI , voice to text typi
 ```
 # Results
 ```bash 
-My team was able to make into top 10 teams out of 32 teams.
+My team was able to make into top 8 teams out of 32 teams.
 ```
